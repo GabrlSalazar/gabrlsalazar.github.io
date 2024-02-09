@@ -9,5 +9,7 @@ En este curso se ve de todo:
 * El verdadero amor por las buenas prácticas
 * Cómo es el desenlace de un proyecto en plano real
 * Creado por mi
+* Para todo el mundo
+* Ejemplos incluidos
 
 Este** readme.md es un simple ejercicio** de lo que hemos aprendido en [Platzi](https://platzi.com/new-home/ "Platzi").
