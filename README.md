@@ -12,4 +12,4 @@ En este curso se ve de todo:
 * Para todo el mundo
 * Ejemplos incluidos
 
-Este** readme.md es un simple ejercicio** de lo que hemos aprendido en [Platzi](https://platzi.com/new-home/ "Platzi").
+Este **readme.md es un simple ejercicio** de lo que hemos aprendido en [Platzi](https://platzi.com/new-home/ "Platzi").
