@@ -10,5 +10,6 @@ En este curso se ve de todo:
 * Cómo es el desenlace de un proyecto en plano real
 * Creado por mi
 * Para todo el mundo
+* Ejemplos incluidos
 
 Este** readme.md es un simple ejercicio** de lo que hemos aprendido en [Platzi](https://platzi.com/new-home/ "Platzi").
